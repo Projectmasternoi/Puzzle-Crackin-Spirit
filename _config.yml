@@ -1,6 +1,6 @@
-title: test game
-description: The choice to save the world is yours!
-show_downloads: true
+title: Puzzle Crackin' Spirit
+description: Spark and his friends get a note from someone asking for help, untill they find out its all a trap!
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
 remote_theme: pages-themes/cayman@v0.2.0
