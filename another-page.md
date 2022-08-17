@@ -1,11 +1,23 @@
 ---
 layout: default
-title: Another page
-description: This is just another page
+title: Download PCS for free!
+description: You can get it for Windows and MacOS.
 ---
 
-## Welcome to another page
+## Game Version
 
-_yay_
+game version
+
+
+## Comic Version
+
+comic version
+
+
+## Board Game Version
+
+bg version
+
+
 
 [back](./)
