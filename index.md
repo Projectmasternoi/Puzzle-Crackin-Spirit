@@ -3,7 +3,8 @@ layout: default
 ---
 
 
-[Link to another page](./another-page.html).
+[Download Puzzle Crackin' Spirit Here..!](./another-page.html).
+
 
 
 # Story Mode
@@ -12,9 +13,11 @@ As Spark Bookdraw is having a walk through the Green Mountains, He finds a note 
 
 
 
+
 # 2 Player Mode
 
-Verse Against a friend in the Battle Mode! Just beat the hell out of the other player untill you win...! (Yep, I know... It's really brutal..
+Verse Against a friend in the Battle Mode! Just beat the hell out of the other player untill you win...!  (Yep, I know... It's really brutal..)
+
 
 
 
@@ -27,3 +30,13 @@ Light Curdoor - A friendly little fella who's Sparks #1 best friend. He likes bo
 Dark Tishclue - A person who is usually quiet. He takes great care of his friends and is really strong. He is 17 and loves noodles.
 
 Professor Redcle - An evil professor who has been murdering innocents for years. He has also executed Spark's brother. He is 17 years old.
+
+
+# Credits
+
+HighBlueYT- Coding, Art, Animation, Voice Acting, Website developer
+Administrator95- Coding
+SonicGremlin- Composer
+-James-/TerfixMX- Composer
+Xaid- Voice acting
+MariGaming- Voice Acting
