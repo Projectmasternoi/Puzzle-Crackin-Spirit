@@ -34,9 +34,14 @@ Professor Redcle - An evil professor who has been murdering innocents for years.
 
 # Credits
 
-HighBlueYT- Coding, Art, Animation, Voice Acting, Website developer
+HighBlueYT/Projectmasternoi- Coding, Art, Animation, Voice Acting, Website developer
+
 Administrator95- Coding
+
 SonicGremlin- Composer
+
 -James-/TerfixMX- Composer
+
 Xaid- Voice acting
+
 MariGaming- Voice Acting
