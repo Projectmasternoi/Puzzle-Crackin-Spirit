@@ -44,4 +44,4 @@ SonicGremlin- Composer
 
 Xaid- Voice acting
 
-MariGaming- Voice Acting
+MariGaming/Mariachi- Voice Acting
